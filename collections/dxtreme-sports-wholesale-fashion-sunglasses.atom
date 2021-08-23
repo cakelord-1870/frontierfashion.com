@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/dxtreme-sports-wholesale-fashion-sunglasses.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2019-03-05T12:05:41-08:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/1700776771628</id>
+    <published>2019-03-05T12:05:41-08:00</published>
+    <updated>2019-03-05T12:05:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/dxt-5434-dxtreme-sports-loop-tip-fashion-wholesale-sunglasses"/>
+    <title>DXTREME Sports Loop Tip Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>DXTREME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/DXT-5434-d-extreme-sunglasses-06_1352acee-117a-4ec5-97aa-5c54381d89f4.jpg?v=1559665922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DXTREME<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sporty sunglasses featuring the DXTREME logo on either side of the temples. Color accent at the sides with lenses that provide complete UV protection. Shiny plastic finish.</p>
+<p>These wholesale bulk sunglasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 65mm<br>Bridge: 17mm<br>Temple: 121mm<br>Lens Height: 37mm<br>Total Length: 146mm<br>Total Height: 43mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1700776771628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>DXT-5434</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1607938965548</id>
+    <published>2019-01-30T15:51:09-08:00</published>
+    <updated>2019-01-30T15:51:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/dxt-5437-dxtreme-thick-sports-wholesale-fashion-sunglasses"/>
+    <title>DXTREME Thick Frame Sports Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>DXTREME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/DXT-5437-dextreme-sunglasses-05_3f097f89-aadd-4a56-8ef9-ff0066fccd1e.jpg?v=1559682960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DXTREME<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;"><span>Sporty sunglasses featuring logo at the sides in frames with shiny plastic finish. Lenses provide complete UV protection. These wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</span></p>
+<ul style="text-align: left;">
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p style="text-align: left;"><span>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 61mm<br>Bridge: 16mm<br>Temple: 121mm<br>Lens Height: 39mm<br>Total Length: 143mm<br>Total Height: 46mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1607938965548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>DXT-5437</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1580274581548</id>
+    <published>2019-01-15T09:38:43-08:00</published>
+    <updated>2019-01-15T09:38:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/dxt-5438-dxtreme-sports-semi-rimless-shield-fashion-wholesale-sunglasses"/>
+    <title>DXTREME Sports Semi-Rimless Shield Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>DXTREME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/DXT-5438-dextreme-sunglasses-04_7d87a3b8-7492-4f26-b288-b47295859935.jpg?v=1565900867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DXTREME<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sporty sunglasses featuring side logo and sleek legs. One piece lens provide complete UV protection. <br>
+<ul>
+<li>Semi-rimless design</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 141mm<br>Bridge: 16mm<br>Temple: 116mm<br>Lens Height: 45mm<br>Total Length: 150mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1580274581548</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>DXT-5438</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1580274516012</id>
+    <published>2019-01-15T09:38:42-08:00</published>
+    <updated>2019-01-15T09:38:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/dxt-5435-dxtreme-sports-wrap-fashion-wholesale-sunglasses"/>
+    <title>DXTREME Sports Wrap Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>DXTREME</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/DXT-5435-d-extreme-sport-sunglasses-01_1af5eeda-f723-46eb-89f9-fec292fcde54.jpg?v=1568064789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DXTREME<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="">
+<tbody>
+<tr>
+<td text-align:="" center="" style="text-align: center;">30% OFF</td>
+<td text-align:="" center="" style="text-align: center;">20% OFF</td>
+<td text-align:="" center="" style="text-align: center;">15% OFF</td>
+<td text-align:="" center="" style="text-align: center;">10% OFF</td>
+</tr>
+<tr>
+<td text-align:="" center="" style="text-align: center;">$18.90</td>
+<td text-align:="" center="" style="text-align: center;">$21.60</td>
+<td text-align:="" center="" style="text-align: center;">$22.95</td>
+<td text-align:="" center="" style="text-align: center;">$24.30</td>
+</tr>
+</tbody>
+</table>
+Sporty sunglasses featuring side logo in shiny plastic finish. Lenses provide complete UV protection. <br>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 66mm<br>Bridge: 17mm<br>Temple: 128mm<br>Lens Height: 38mm<br>Total Length: 144mm<br>Total Height: 43mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1580274516012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>DXT-5435</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

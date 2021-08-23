@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/safety-glasses-wholesale.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-02-15T13:43:11-08:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399606953</id>
+    <published>2021-02-15T13:43:11-08:00</published>
+    <updated>2021-02-15T13:43:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg069-saftey-visor-wholesale-eyewear"/>
+    <title>Safety Visor Wholesale Clear Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG069-safety-goggles-clear-rimless-shield-sunglasses-01.jpg?v=1611086160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 192mm<br>Bridge: 18mm<br>Temple: 128mm<br>Lens Height: 82mm<br>Total Length: 222mm<br>Total Height: 96mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399606953</id>
+      <title>Dozen</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>SG069</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399639721</id>
+    <published>2021-02-15T13:42:48-08:00</published>
+    <updated>2021-02-15T13:42:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg069-co-saftey-visor-wholesale-color-sunglasses"/>
+    <title>Safety Visor Wholesale Color Sunglasses</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG069-CO-safety-goggles-rimless-color-shield-sunglasses-01.jpg?v=1611086202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 192mm<br>Bridge: 18mm<br>Temple: 128mm<br>Lens Height: 82mm<br>Total Length: 222mm<br>Total Height: 96mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Color</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399639721</id>
+      <title>Dozen</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>SG069-CO</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399541417</id>
+    <published>2021-02-15T13:41:42-08:00</published>
+    <updated>2021-02-15T13:41:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg068-saftey-goggles-wholesale-eyewear"/>
+    <title>Safety Goggles Wholesale Clear Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG068-safety-goggles-clear-lens-side-shield-sunglasses-01.jpg?v=1611086110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 135mm<br>Bridge: 18mm<br>Temple: 115mm<br>Lens Height: 50mm<br>Total Length: 200mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399541417</id>
+      <title>Dozen</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>SG068</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399508649</id>
+    <published>2021-02-15T13:41:00-08:00</published>
+    <updated>2021-02-15T13:41:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg067-saftey-goggles-wholesale-eyewear"/>
+    <title>Safety Goggles Wholesale Clear Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG067-safety-goggles-flat-top-side-shield-sunglasses-01.jpg?v=1611086060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 140mm<br>Bridge: 16mm<br>Temple: 120mm<br>Lens Height: 46mm<br>Total Length: 220mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399508649</id>
+      <title>Dozen</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SG067</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399475881</id>
+    <published>2021-02-15T13:37:50-08:00</published>
+    <updated>2021-02-15T13:37:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg066-saftey-goggles-wholesale-eyewear"/>
+    <title>Safety Goggles Wholesale Clear Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG066-safety-goggles-clear-vent-temple-sunglasses-01.jpg?v=1611086022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 150mm<br>Bridge: 18mm<br>Temple: 124mm<br>Lens Height: 55mm<br>Total Length: 192mm<br>Total Height: 55mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399475881</id>
+      <title>Dozen</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>SG066</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399443113</id>
+    <published>2021-02-15T13:37:24-08:00</published>
+    <updated>2021-02-15T13:37:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg065-saftey-goggles-wholesale-eyewear"/>
+    <title>Safety Goggles Wholesale Clear Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG065-safety-goggles-side-shield-sunglasses-01.jpg?v=1611085981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 142mm<br>Bridge: 16mm<br>Temple: 114mm<br>Lens Height: 55mm<br>Total Length: 200mm<br>Total Height: 55mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399443113</id>
+      <title>Dozen</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>SG065</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399017129</id>
+    <published>2021-02-15T13:27:37-08:00</published>
+    <updated>2021-02-15T13:27:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ksg069-kids-safety-visor-wholesale-eyewear"/>
+    <title>Kids Safety Visor Wholesale Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KSG069-kids-safety-goggles-shield-sunglasses-01.jpg?v=1610483922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 156mm<br>Bridge: 14mm<br>Temple: 115mm<br>Lens Height: 64mm<br>Total Length: 180mm<br>Total Height: 76mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399017129</id>
+      <title>Dozen</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>KSG069</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374399049897</id>
+    <published>2021-02-15T13:27:17-08:00</published>
+    <updated>2021-02-15T13:27:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ksg069-co-kids-safety-visory-wholesale-eyewear"/>
+    <title>Kids Safety Color Visor Wholesale Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KSG069-CO-kids-safety-goggle-scolor-shiled-sunglasses-01.jpg?v=1610407227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 156mm<br>Bridge: 14mm<br>Temple: 115mm<br>Lens Height: 64mm<br>Total Length: 180mm<br>Total Height: 76mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Color</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374399049897</id>
+      <title>Dozen</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>KSG069-CO</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374398984361</id>
+    <published>2021-02-15T13:26:20-08:00</published>
+    <updated>2021-02-15T13:26:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ksg067-kids-safety-goggles-wholesale-eyewear"/>
+    <title>Kids Safety Goggles Wholesale Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KSG067-kids-safety-goggles-side-shield-sunglasses-01.jpg?v=1610483796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 140mm<br>Bridge: 16mm<br>Temple: 120mm<br>Lens Height: 46mm<br>Total Length: 220mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374398984361</id>
+      <title>Dozen</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>KSG067</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6374398951593</id>
+    <published>2021-02-15T13:25:31-08:00</published>
+    <updated>2021-02-15T13:25:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ksg066-kids-safety-goggles-wholesale-eyewear"/>
+    <title>Kids Safety Goggles Wholesale Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KSG066-kids-safety-goggles-01.jpg?v=1610407761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 140mm<br>Bridge: 18mm<br>Temple: 115mm<br>Lens Height: 51mm<br>Total Length: 178mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6374398951593</id>
+      <title>Dozen</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>KSG066</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562463781019</id>
+    <published>2021-01-25T13:56:30-08:00</published>
+    <updated>2021-01-25T13:56:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg063-clr-safety-wholesale-eyewear"/>
+    <title>Safety Goggles Wholesale Eyewear</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG063-CLR-safety-glasses-clear-orange-01.jpg?v=1599163396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 84mm<br>Bridge: 18mm<br>Temple: 120mm<br>Lens Height: 46mm<br>Total Length: 190mm<br>Total Height: 46mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562463781019</id>
+      <title>Dozen</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>SG063-CLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562463813787</id>
+    <published>2021-01-25T13:56:02-08:00</published>
+    <updated>2021-01-25T13:56:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg064-safety-wholesale-sunglasses"/>
+    <title>Safety Goggles Wholesale Sunglasses</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG064-safety-glasses-black-orange-01.jpg?v=1599163475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 84mm<br>Bridge: 18mm<br>Temple: 120mm<br>Lens Height: 46mm<br>Total Length: 190mm<br>Total Height: 46mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562463813787</id>
+      <title>Dozen</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>SG064</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5555073155227</id>
+    <published>2020-08-31T10:51:09-07:00</published>
+    <updated>2020-08-31T10:51:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/bandana-mask-wholesale-blue-red"/>
+    <title>Bandana Mask Wholesale - Blue Red</title>
+    <s:type>Safety</s:type>
+    <s:vendor>PRO+ SHIELD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/BDN-MSK-004-BLRD-web.jpg?v=1598896281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRO+ SHIELD<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Please note that wholesale products are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5555073155227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>BDN-MSK-004-BLRD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5554849251483</id>
+    <published>2020-08-31T09:29:51-07:00</published>
+    <updated>2020-08-31T09:29:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/bandana-wholesale-black"/>
+    <title>Bandana Wholesale - Black</title>
+    <s:type>Safety</s:type>
+    <s:vendor>PRO+ SHIELD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/BDN001-BLK-AMZ.jpg?v=1598891392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRO+ SHIELD<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Please note that wholesale products are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5554849251483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BDN001-BLK</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5310286004379</id>
+    <published>2020-06-19T14:07:42-07:00</published>
+    <updated>2020-06-19T14:07:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/kn95-safety-masks-4-pcs"/>
+    <title>KN95 Safety Masks (4 pcs) (not sold by dozen)</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KN95-WEB-04.jpg?v=1627665929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion, Inc.<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Each pack contains 4 masks.</p>
+<p><span style="color: #ff2a00;"><strong>This item is sold by the pack, NOT by the dozen.</strong></span></p>
+<p> </p>
+<p><span style="color: #000000;"><strong>For Bulk pricing please email info@frontierfashion.com or call 1-626-3336179.</strong></span></p>
+<p><span style="color: #000000;"><strong><br></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Under $20</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5310286004379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>KN95</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5310276436123</id>
+    <published>2020-06-19T14:07:42-07:00</published>
+    <updated>2020-06-19T14:07:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/safety-adjustable-face-shield-white"/>
+    <title>Safety Adjustable Face Shield - White</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG055-white.jpg?v=1592601398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion, Inc.<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Each set comes with 4 replaceable shields.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5310276436123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>SG055-WHITE</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5310271094939</id>
+    <published>2020-06-19T14:07:42-07:00</published>
+    <updated>2020-06-19T14:07:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/safety-shield-goggles-1"/>
+    <title>Safety Shield Goggles</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG056-goggle-shield-lens-01.jpg?v=1592600950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion, Inc.<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5310271094939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SG056</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5310265589915</id>
+    <published>2020-06-19T14:00:19-07:00</published>
+    <updated>2020-06-19T14:00:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/safety-shield-goggles"/>
+    <title>Safety Shield Goggles</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG057-goggle-shield-side-lens-01.jpg?v=1592600510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion, Inc.<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5310265589915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku>SG057</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4512954351755</id>
+    <published>2020-02-04T09:56:43-08:00</published>
+    <updated>2020-02-04T09:56:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/sg041-safety-glasses-bulk-wholesale"/>
+    <title>Safety Glasses Bulk Wholesale</title>
+    <s:type>Safety</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/SG041-safety-glasses-01.jpg?v=1580839737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Safety<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Glasses Bulk Wholesale.</p>
+<ul>
+<li>Impact resistant</li>
+<li>Shatter resistant  </li>
+</ul>
+<p>Please note that wholesale glasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Safety</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4512954351755</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SG041</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

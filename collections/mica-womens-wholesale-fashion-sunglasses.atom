@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/mica-womens-wholesale-fashion-sunglasses.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-06-24T16:38:53-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/7048874361001</id>
+    <published>2021-06-24T16:38:53-07:00</published>
+    <updated>2021-06-24T16:38:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mica-color-mirror-rectangle-aviators-wholesale-sunglasses"/>
+    <title>MICA Color Mirror Rectangle Aviators Wholesale Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40309-RCM-mica-metal-sunglass-01.jpg?v=1624577863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7048874361001</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>MK-40309-RCM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/787933265964</id>
+    <published>2018-04-13T11:23:45-07:00</published>
+    <updated>2018-04-13T11:23:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-p6085-cm-mica-classic-color-mirror-wholesale-fashion-sunglasses"/>
+    <title>MICA Classic Color Mirror Wholesale Sunglasses</title>
+    <s:type>Closeout</s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-P6085-CM-mika-plastic-color-mirror-sunglasses-02.jpg?v=1614379206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong>Closeout<br>
+        <strong>Price: </strong>
+            26.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff0000;"><strong>CLOSEOUT ITEM, ALL SALES ARE FINAL.</strong></span></p>
+<p><span style="color: #ff0000;"><strong>ITEMS DO NOT RECEIVE BULK DISCOUNTS.</strong></span></p>
+<p>MICA classic sunglasses featuring color mirror lenses that provide complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 66mm<br>Bridge: 21mm<br>Temple: 135mm<br>Lens Height: 48mm<br>Total Length: 142mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/787933265964</id>
+      <title>Default Title / Final Sale</title>
+      <s:price currency="USD">26.60</s:price>
+      <s:sku>MK-P6085-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53984460844</id>
+    <published>2017-12-26T14:30:24-08:00</published>
+    <updated>2017-12-26T14:30:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40305-cm"/>
+    <title>MICA Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40305-CM-small-metal-aviator-sunglass-02.jpg?v=1514933740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MICA aviators featuring color mirror lenses that provide complete UV protection. Shiny metal finish with plastic tips. 
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53984460844</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>MK-40305-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53984329772</id>
+    <published>2017-12-26T14:30:24-08:00</published>
+    <updated>2017-12-26T14:30:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40302-rv"/>
+    <title>MICA Spring Hinge Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40302-RV-metal-aviator-revo-sunglass-02.jpg?v=1514933704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA aviators featuring revo color mirror lenses that provide complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Revo color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53984329772</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>MK-40302-RV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53923708972</id>
+    <published>2017-12-26T14:23:52-08:00</published>
+    <updated>2017-12-26T14:23:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40307-rcm"/>
+    <title>MICA Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40307-RCM-mica-metal-aviator-sunglass-06.jpg?v=1514933785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA aviators sunglasses featuring revo color mirror lenses that provide complete UV protection. Top brow bar and temples have metal deco pattern. Shiny metal finish with plastic legs. </p>
+<ul>
+<li>Revo color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53923708972</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>MK-40307-RCM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53920366636</id>
+    <published>2017-12-26T14:23:26-08:00</published>
+    <updated>2017-12-26T14:23:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-p7001-cm"/>
+    <title>MICA Folding Classic Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-P7001-CM-mica-classic-color-mirror-sunglass-03.jpg?v=1515096512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA sunglasses featuring a folding temple and color mirror lenses. Provides UV protection. Shiny plastic finish.</p>
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53920366636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>MK-P7001-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53916303404</id>
+    <published>2017-12-26T14:22:59-08:00</published>
+    <updated>2017-12-26T14:22:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40316-rv"/>
+    <title>MICA Spring Hinge Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40316-RV-mica-metal-revo-color-mirror-sunglass-01.jpg?v=1514933973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            67.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA aviators featuring revo color mirror lenses that provide complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Revo color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53916303404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">67.00</s:price>
+      <s:sku>MK-40316-RV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53914075180</id>
+    <published>2017-12-26T14:22:45-08:00</published>
+    <updated>2017-12-26T14:22:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40315-rv"/>
+    <title>MICA Spring Hinge Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40315-RV-mica-fashion-metal-aviator-revo-sunglass-03.jpg?v=1514933927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA aviators featuring revo color mirror lenses that provide complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Revo color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53914075180</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>MK-40315-RV</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53897101356</id>
+    <published>2017-12-26T14:20:55-08:00</published>
+    <updated>2017-12-26T14:20:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40321-cm"/>
+    <title>MICA Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40321-CM-mica-aviator-one-piece-color-mirror-sunglasses-02.jpg?v=1622676697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/pWPgJEm_oVs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>MICA aviators featuring color mirror lens that provide complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Color mirror lens</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 145mm<br>Bridge: 18mm<br>Temple: 125mm<br>Lens Height: 153mm<br>Total Length: 147mm<br>Total Height: 153mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Rimless</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53897101356</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>MK-40321-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53895462956</id>
+    <published>2017-12-26T14:20:41-08:00</published>
+    <updated>2017-12-26T14:20:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/mk-40323-cm"/>
+    <title>MICA Aviators Color Mirror Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>MICA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/MK-40323-CM-mica-aviator-metal-color-05.jpg?v=1514934024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MICA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MICA aviators featuring color mirror lenses that provide complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53895462956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>MK-40323-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

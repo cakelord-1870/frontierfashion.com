@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/new-arrivals-wholesale-fashion-sunglasses.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-08-09T09:29:12-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292898473</id>
+    <published>2021-08-09T09:29:12-07:00</published>
+    <updated>2021-08-09T09:29:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30432-butterfly-wholesale-sunglasses"/>
+    <title>Diamond Pattern Temple Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30432-plastic-rhombus-temple-pattern-square-sunglasses-01.jpg?v=1628199879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 18mm<br>Temple: 146mm<br>Lens Height: 50mm<br>Total Length: 150mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292898473</id>
+      <title>Dozen</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>P30432</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292865705</id>
+    <published>2021-08-09T09:29:11-07:00</published>
+    <updated>2021-08-09T09:29:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30431-butterfly-wholesale-sunglasses"/>
+    <title>Pearl Temple Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30431-plastic-temple-pearl-butterfly-sunglasses-01.jpg?v=1628204223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br></p>
+</td>
+<td>Measurements<br>Lens Width: 55mm<br>Bridge: 18mm<br>Temple: 140mm<br>Lens Height: 51mm<br>Total Length: 146mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292865705</id>
+      <title>Dozen</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>P30431</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292832937</id>
+    <published>2021-08-09T09:29:11-07:00</published>
+    <updated>2021-08-09T09:29:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30430-shield-wholesale-sunglasses"/>
+    <title>Top Brow Shield Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30430-plastic-top-metal-bar-shield-square-sunglasses-01.jpg?v=1628204795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 143mm<br>Bridge: 16mm<br>Temple: 146mm<br>Lens Height: 55mm<br>Total Length: 143mm<br>Total Height: 57mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292832937</id>
+      <title>Dozen</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>P30430</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292800169</id>
+    <published>2021-08-09T09:29:10-07:00</published>
+    <updated>2021-08-09T09:29:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30428-butterfly-wholesale-sunglasses"/>
+    <title>Butterfly Cut Out Thick Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30428-plastic-temple-hook-wide-butterfly-sunglasses-01.jpg?v=1628199498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 59mm<br>Bridge: 18mm<br>Temple: 134mm<br>Lens Height: 43mm<br>Total Length: 153mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292800169</id>
+      <title>Dozen</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>P30428</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292767401</id>
+    <published>2021-08-09T09:29:10-07:00</published>
+    <updated>2021-08-09T09:29:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30427-deco-fashion-wholesale-sunglasses"/>
+    <title>Flat Top Deco Fashion Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30427-plastic-flat-top-metal-bridge-bar-square-sunglasses-01.jpg?v=1628200224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 18mm<br>Temple: 140mm<br>Lens Height: 40mm<br>Total Length: 146mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292767401</id>
+      <title>Dozen</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku>P30427</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292669097</id>
+    <published>2021-08-09T09:29:09-07:00</published>
+    <updated>2021-08-09T09:29:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10855-rimless-shield-wholesale-sunglasses"/>
+    <title>Rimless Shield Flat Top Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10855-metal-flat-top-rimless-shield-sunglasses-01.jpg?v=1628204586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 142mm<br>Bridge: 20mm<br>Temple: 138mm<br>Lens Height: 56mm<br>Total Length: 148mm<br>Total Height: 56mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Rimless</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292669097</id>
+      <title>Dozen</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>M10855</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292636329</id>
+    <published>2021-08-09T09:29:09-07:00</published>
+    <updated>2021-08-09T09:29:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10851-rimless-butterfly-wholesale-sunglasses"/>
+    <title>Rimless Squared Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10851-metal-curved-bridge-rimless-shield-sunglasses-01.jpg?v=1628204698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 130mm<br>Bridge: 20mm<br>Temple: 144mm<br>Lens Height: 58mm<br>Total Length: 144mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292636329</id>
+      <title>Dozen</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>M10851</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292603561</id>
+    <published>2021-08-09T09:29:08-07:00</published>
+    <updated>2021-08-09T09:29:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10849-rimless-shield-wholesale-sunglasses"/>
+    <title>Rimless Flat Top Shield Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10849-metal-flat-top-rimless-rectangular-shield-sunglasses-01.jpg?v=1628204491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 144mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 63mm<br>Total Length: 144mm<br>Total Height: 63mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292603561</id>
+      <title>Dozen</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku>M10849</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292570793</id>
+    <published>2021-08-09T09:29:07-07:00</published>
+    <updated>2021-08-09T09:29:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10844-rh-heart-rhinestone-wholesale-sunglasses"/>
+    <title>Heart Rhinestone Rimless Cat Eye Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10844-RH-metal-rimless-rhinestone-cat-eye-sunglasses-01.jpg?v=1628200422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            63.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 58mm<br>Bridge: 20mm<br>Temple: 148mm<br>Lens Height: 52mm<br>Total Length: 142mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292570793</id>
+      <title>Dozen</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>M10844-RH</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292505257</id>
+    <published>2021-08-09T09:29:07-07:00</published>
+    <updated>2021-08-09T09:29:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10842-retro-cat-eye-wholesale-sunglasses"/>
+    <title>Retro Cat Eye Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10842-metal-thin-frame-geometric-cat-eye-sunglasses-01.jpg?v=1628204338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 61mm<br>Bridge: 20mm<br>Temple: 138mm<br>Lens Height: 56mm<br>Total Length: 154mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292505257</id>
+      <title>Dozen</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>M10842</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292472489</id>
+    <published>2021-08-09T09:29:06-07:00</published>
+    <updated>2021-08-09T09:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10839-glitter-trim-butterfly-wholesale-sunglasses"/>
+    <title>Glitter Trim Rimless Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10839-metal-side-glitter-shield-butterfly-sunglasses-01.jpg?v=1628200304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 62mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 58mm<br>Total Length: 146mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292472489</id>
+      <title>Dozen</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>M10839</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292439721</id>
+    <published>2021-08-09T09:29:05-07:00</published>
+    <updated>2021-08-09T09:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4051-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Thick Frame Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4051-lion-head-plastic-side-plaque-square-sunglasses-01.jpg?v=1628203672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 18mm<br>Temple: 144mm<br>Lens Height: 45mm<br>Total Length: 152mm<br>Total Height: 55mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292439721</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4051</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292406953</id>
+    <published>2021-08-09T09:29:05-07:00</published>
+    <updated>2021-08-09T09:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4050-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Squared Butterfly Taper Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4050-lion-head-plastic-oversized-square-sunglasses-01.jpg?v=1628203541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 58mm<br>Bridge: 18mm<br>Temple: 126mm<br>Lens Height: 55mm<br>Total Length: 140mm<br>Total Height: 62mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292406953</id>
+      <title>Dozen</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>LH-P4050</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292374185</id>
+    <published>2021-08-09T09:29:04-07:00</published>
+    <updated>2021-08-09T09:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4049-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Shield Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4049-lion-head-plastic-shield-cat-eye-sunglasses-01.jpg?v=1628203353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 140mm<br>Bridge: 16mm<br>Temple: 136mm<br>Lens Height: 56mm<br>Total Length: 142mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292374185</id>
+      <title>Dozen</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>LH-P4049</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292341417</id>
+    <published>2021-08-09T09:29:04-07:00</published>
+    <updated>2021-08-09T09:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4048-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Thin Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4048-lion-head-plastic-rounded-square-sunglasses-01.jpg?v=1628204157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 16mm<br>Temple: 140mm<br>Lens Height: 40mm<br>Total Length: 146mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292341417</id>
+      <title>Dozen</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-P4048</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292308649</id>
+    <published>2021-08-09T09:29:03-07:00</published>
+    <updated>2021-08-09T09:29:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4047-kleo-rectangle-wholesale-sunglasses"/>
+    <title>KLEO Rectangle Top Brow Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4047-lion-head-plastic-metal-brow-square-sunglasses-01.jpg?v=1628200865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 16mm<br>Temple: 146mm<br>Lens Height: 33mm<br>Total Length: 143mm<br>Total Height: 45mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Rectangle</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292308649</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4047</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292275881</id>
+    <published>2021-08-09T09:29:02-07:00</published>
+    <updated>2021-08-09T09:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4046-kleo-shield-wholesale-sunglasses"/>
+    <title>KLEO Shield Thick Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4046-lion-head-plastic-flat-top-oval-medallion-shield-sunglasses-01.jpg?v=1628203450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 138mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 46mm<br>Total Length: 143mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292275881</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>LH-P4046</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292243113</id>
+    <published>2021-08-09T09:29:02-07:00</published>
+    <updated>2021-08-09T09:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4045-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Thick Temple Classic Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4045-lion-head-plastic-oval-medallion-square-sunglasses-01.jpg?v=1628203836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 16mm<br>Temple: 138mm<br>Lens Height: 42mm<br>Total Length: 142mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292243113</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4045</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292210345</id>
+    <published>2021-08-09T09:29:01-07:00</published>
+    <updated>2021-08-09T09:29:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/kn-p01057-khan-aviators-wholesale-sunglasses"/>
+    <title>KHAN Retro Top Bar Aviators Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KHAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KN-P01057-khan-plastic-metal-top-bar-sunglasses-01.jpg?v=1628200730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KHAN<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 18mm<br>Temple: 144mm<br>Lens Height: 48mm<br>Total Length: 142mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292210345</id>
+      <title>Dozen</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>KN-P01057</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292177577</id>
+    <published>2021-08-09T09:29:01-07:00</published>
+    <updated>2021-08-09T09:29:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/kn-p01056-khan-aviators-wholesale-sunglasses"/>
+    <title>KHAN Retro Fashion Aviators Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KHAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/KN-P01056-khan-plastic-flat-top-dotted-temple-sunglasses-01.jpg?v=1628200620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KHAN<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 56mm<br>Bridge: 16mm<br>Temple: 140mm<br>Lens Height: 52mm<br>Total Length: 144mm<br>Total Height: 57mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292177577</id>
+      <title>Dozen</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku>KN-P01056</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7127532699817</id>
+    <published>2021-08-04T15:41:41-07:00</published>
+    <updated>2021-08-04T15:41:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/rh-3259-butterfly-rhinestone-wholesale-sunglasses"/>
+    <title>Butterfly Rhinestone Trail Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/RH-3259-rhinestone-crossed-line-butterfly-sunglasses-01.jpg?v=1628112979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 20mm<br>Temple: 144mm<br>Lens Height: 50mm<br>Total Length: 152mm<br>Total Height: 64mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7127532699817</id>
+      <title>Dozen</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>RH-3259</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7127532667049</id>
+    <published>2021-08-04T15:41:40-07:00</published>
+    <updated>2021-08-04T15:41:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/rh-3257-rhinestone-flat-top-wholesale-sunglasses"/>
+    <title>Rhinestone Flat Top Oversized Rectangle Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/RH-3257-rhinestone-oversized-rectangular-sunglasses-01.jpg?v=1628114752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 62mm<br>Bridge: 16mm<br>Temple: 140mm<br>Lens Height: 54mm<br>Total Length: 150mm<br>Total Height: 68mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Rhinestone</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7127532667049</id>
+      <title>Dozen</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RH-3257</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7127532634281</id>
+    <published>2021-08-04T15:41:40-07:00</published>
+    <updated>2021-08-04T15:41:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p6675-flat-top-cat-eye-wholesale-sunglasses"/>
+    <title>Flat Top Angular Cat Eye Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P6675-plastic-flat-top-trapezoid-geometric-sunglasses-01.jpg?v=1628113385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 65mm<br>Bridge: 16mm<br>Temple: 142mm<br>Lens Height: 50mm<br>Total Length: 144mm<br>Total Height: 54mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7127532634281</id>
+      <title>Dozen</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>P6675</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7127532601513</id>
+    <published>2021-08-04T15:41:39-07:00</published>
+    <updated>2021-08-04T15:41:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p6672-flat-top-wholesale-sunglasses"/>
+    <title>Flat Top Thick Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P6672-plastic-open-hinge-square-sunglasses-01.jpg?v=1628113559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 55mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 46mm<br>Total Length: 148mm<br>Total Height: 56mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Flat</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7127532601513</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>P6672</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7127532568745</id>
+    <published>2021-08-04T15:41:39-07:00</published>
+    <updated>2021-08-04T15:41:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p6665-retro-diamond-wholesale-sunglasses"/>
+    <title>Retro Diamond Patterned Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P6665-plastic-rhombus-temple-shield-cat-eye-sunglasses-01.jpg?v=1628114535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 144mm<br>Bridge: 18mm<br>Temple: 144mm<br>Lens Height: 54mm<br>Total Length: 148mm<br>Total Height: 56mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7127532568745</id>
+      <title>Dozen</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>P6665</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

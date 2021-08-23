@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/w-1-series.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2020-09-17T16:38:40-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/53933080620</id>
+    <published>2020-09-17T16:38:40-07:00</published>
+    <updated>2020-09-17T16:38:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-ac-classic-sunglasses"/>
+    <title>Classic Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-AC-classic-sunglasses-01.jpg?v=1525368256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic Wholesale Sunglasses.</p>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53933080620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-AC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519441596555</id>
+    <published>2020-02-07T11:42:19-08:00</published>
+    <updated>2020-02-07T11:42:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-lf-fashion-wholesale-sunglasses"/>
+    <title>Classic Weed Pattern Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-LF-classic-marijuana-sunglasses-01.jpg?v=1581030415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 51mm<br>Bridge: 18mm<br>Temple: 142mm<br>Lens Height: 43mm<br>Total Length: 146mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519441596555</id>
+      <title>Dozen</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>W-1-LF</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/3930949943340</id>
+    <published>2019-07-10T10:34:16-07:00</published>
+    <updated>2019-07-10T10:34:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-sft-blk-cm-classic-fashion-wholesale-sunglasses"/>
+    <title>Black Classic Soft Coat Color Mirror Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-SFT-BLK-CM_NEW_-classic-soft-black-sunglasses-01.jpg?v=1562625426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These wholesale bulk sunglasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<div style="text-align: center;">Details</div>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/3930949943340</id>
+      <title>Dozen</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W-1-SFT-BLK-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1262627323948</id>
+    <published>2019-03-06T16:39:55-08:00</published>
+    <updated>2019-03-06T16:39:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-blk-cm"/>
+    <title>Black Classic Color Mirror Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-BLK-CM-classic-black-color-mirror-sunglasses-05.jpg?v=1600462334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+Classic sunglasses featuring black frames and color mirror lenses that provide complete UV protection. Shiny plastic finish with metal accent. <br>
+<ul>
+<li>Black frames</li>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 48mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1262627323948</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-BLK-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53983281196</id>
+    <published>2019-03-06T16:38:02-08:00</published>
+    <updated>2019-03-06T16:38:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-pol-cm-classic-sunglasses-with-polarized-color-mirror-lens"/>
+    <title>Classic Polarized Color Mirror Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-POL-CM-Classic-Sunglasses-Polarized-Color-Mirror-Lens-01B.jpg?v=1600462243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Classic sunglasses featuring polarized color mirror lenses that provide complete UV protection. Shiny plastic finish. 
+<ul>
+<li>Polarized color mirror lenses</li>
+<li>Spring hinges</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53983281196</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>W-1-POL-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1262627356716</id>
+    <published>2018-09-25T16:26:08-07:00</published>
+    <updated>2018-09-25T16:26:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-blk-mr-classic-black-mirror-wholesale-fashion-sunglasses"/>
+    <title>Black Classic Mirrored Sunglasses Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-BLK-MR-classic-black-mirror-sunglasses-01_a45ae659-ab69-4e1a-a551-5544815aef71.jpg?v=1566230914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Classic sunglasses featuring mirror lenses and shiny metal accent. Provides complete UV protection. Black frames. <br>
+<ul>
+<li>Black frames</li>
+<li>Mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 48mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1262627356716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-BLK-MR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53990948908</id>
+    <published>2018-03-05T14:51:50-08:00</published>
+    <updated>2018-03-05T14:51:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-pol-wht-classic-white-sunglasses-with-polarized-and-color-mirror-lens"/>
+    <title>Classic Spring Hinge Polarized White Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-POL-WHT-polarized-classic-sunglass-01.jpg?v=1520290284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic sunglasses featuring white frames with polarized smoke lenses that provide complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>White frames</li>
+<li>Polarized smoke lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53990948908</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>W-1-POL-WHT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53904670764</id>
+    <published>2018-02-07T14:27:21-08:00</published>
+    <updated>2018-02-07T14:27:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-clr-sft-classic-clear-sunglasses-with-rubberized-soft-coating"/>
+    <title>Classic Clear Lens Soft Coat Wholesale Glasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-CLR-SFT-classic-clear-soft-touch-sunglass-01.jpg?v=1518042850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic frame glasses featuring black frames in soft touch rubberized coating. Clear lenses. </p>
+<ul>
+<li>Soft rubber coated frame</li>
+<li>Clear lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53904670764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-CLR-SFT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932818476</id>
+    <published>2018-02-07T14:23:11-08:00</published>
+    <updated>2018-02-07T14:23:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-pol-classic-sunglasses-with-polarized-lens"/>
+    <title>Classic Spring Hinge Polarized Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-POL-01.jpg?v=1518042385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic sunglasses featuring polarized smoke lenses that provide complete UV protection. Spring hinges. Shiny plastic finish. </p>
+<ul>
+<li>Polarized smoke lenses </li>
+<li>Spring hinges</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932818476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>W-1-POL</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932752940</id>
+    <published>2018-02-07T14:22:01-08:00</published>
+    <updated>2018-02-07T14:22:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-sd-classic-sunglasses-with-super-dark-lens"/>
+    <title>Classic Spring Hinge Sunglasses with Super Dark Lens</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-SD-01.jpg?v=1518042159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic style sunglasses featuring super dark lenses. Spring hinges. Provides complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>Super dark lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Super Dark</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932752940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-SD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932884012</id>
+    <published>2017-12-26T14:24:58-08:00</published>
+    <updated>2017-12-26T14:24:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-neon-classic-sunglasses-with-neon-colors"/>
+    <title>Classic Neon Color Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-NEON-01.jpg?v=1514417835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic sunglasses featuring neon colored frames. Smoke lenses provide complete UV protection. Shiny plastic finish.</p>
+<ul>
+<li>Neon color frames</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932884012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-NEON</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932654636</id>
+    <published>2017-12-26T14:24:56-08:00</published>
+    <updated>2017-12-26T14:24:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-sneon-classic-sunglasses-with-neon-colors"/>
+    <title>Classic Spring Hinge Solid Neon Colors Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-SNEON-01.jpg?v=1514417396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic style sunglasses featuring neon color frames. Smoke lenses provide complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>Neon color frames</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932654636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-SNEON</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932621868</id>
+    <published>2017-12-26T14:24:55-08:00</published>
+    <updated>2017-12-26T14:24:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-sneon-cm-classic-color-mirror-collection-sunglasses"/>
+    <title>Classic Spring Hinge Solid Neon Frame Color Mirror Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-SNEON-CM-classic-neon-color-mirror-sunglasses-01.jpg?v=1514417348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Classic style sunglasses featuring color mirror lenses that provide complete UV protection. Neon color frames in shiny plastic finish.  
+<ul>
+<li>Neon color frames</li>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932621868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>W-1-SNEON-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53932458028</id>
+    <published>2017-12-26T14:24:54-08:00</published>
+    <updated>2017-12-26T14:24:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-wht-mr-white-classic-sunglasses-with-mirrored-lens"/>
+    <title>Classic Spring Hinge White Frame Mirror Lens Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-WHT-MR-white-classic-01.jpg?v=1514417258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White classic sunglasses featuring mirror lenses that provide complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>White frames</li>
+<li>Mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53932458028</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>W-1-WHT-MR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53877440556</id>
+    <published>2017-12-26T14:19:12-08:00</published>
+    <updated>2017-12-26T14:19:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/w-1-wht-sd-white-classic-sunglasses-with-super-dark-lens"/>
+    <title>Classic Spring Hinge White Frame Super Dark Lens Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/W-1-WHT-SD-classic-white-super-dark-lens-sunglasses-01.jpg?v=1514417228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White classic style frames featuring super dark lenses that provide complete UV protection. Shiny plastic finish. </p>
+<ul>
+<li>White frames</li>
+<li>Super dark lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 143mm<br>Lens Height: 44mm<br>Total Length: 145mm<br>Total Height: 49mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Super Dark</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53877440556</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>W-1-WHT-SD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

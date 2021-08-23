@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/kleo-designer-womens-wholesale-fashion-sunglasses.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-08-09T09:29:05-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292439721</id>
+    <published>2021-08-09T09:29:05-07:00</published>
+    <updated>2021-08-09T09:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4051-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Thick Frame Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4051-lion-head-plastic-side-plaque-square-sunglasses-01.jpg?v=1628203672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 18mm<br>Temple: 144mm<br>Lens Height: 45mm<br>Total Length: 152mm<br>Total Height: 55mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292439721</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4051</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292406953</id>
+    <published>2021-08-09T09:29:05-07:00</published>
+    <updated>2021-08-09T09:29:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4050-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Squared Butterfly Taper Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4050-lion-head-plastic-oversized-square-sunglasses-01.jpg?v=1628203541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 58mm<br>Bridge: 18mm<br>Temple: 126mm<br>Lens Height: 55mm<br>Total Length: 140mm<br>Total Height: 62mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292406953</id>
+      <title>Dozen</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>LH-P4050</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292374185</id>
+    <published>2021-08-09T09:29:04-07:00</published>
+    <updated>2021-08-09T09:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4049-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Shield Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4049-lion-head-plastic-shield-cat-eye-sunglasses-01.jpg?v=1628203353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 140mm<br>Bridge: 16mm<br>Temple: 136mm<br>Lens Height: 56mm<br>Total Length: 142mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292374185</id>
+      <title>Dozen</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku>LH-P4049</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292341417</id>
+    <published>2021-08-09T09:29:04-07:00</published>
+    <updated>2021-08-09T09:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4048-kleo-butterfly-wholesale-sunglasses"/>
+    <title>KLEO Thin Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4048-lion-head-plastic-rounded-square-sunglasses-01.jpg?v=1628204157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 16mm<br>Temple: 140mm<br>Lens Height: 40mm<br>Total Length: 146mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292341417</id>
+      <title>Dozen</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-P4048</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292308649</id>
+    <published>2021-08-09T09:29:03-07:00</published>
+    <updated>2021-08-09T09:29:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4047-kleo-rectangle-wholesale-sunglasses"/>
+    <title>KLEO Rectangle Top Brow Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4047-lion-head-plastic-metal-brow-square-sunglasses-01.jpg?v=1628200865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 16mm<br>Temple: 146mm<br>Lens Height: 33mm<br>Total Length: 143mm<br>Total Height: 45mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Rectangle</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292308649</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4047</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292275881</id>
+    <published>2021-08-09T09:29:02-07:00</published>
+    <updated>2021-08-09T09:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4046-kleo-shield-wholesale-sunglasses"/>
+    <title>KLEO Shield Thick Temple Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4046-lion-head-plastic-flat-top-oval-medallion-shield-sunglasses-01.jpg?v=1628203450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 138mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 46mm<br>Total Length: 143mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292275881</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>LH-P4046</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7129292243113</id>
+    <published>2021-08-09T09:29:02-07:00</published>
+    <updated>2021-08-09T09:29:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4045-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Thick Temple Classic Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4045-lion-head-plastic-oval-medallion-square-sunglasses-01.jpg?v=1628203836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 16mm<br>Temple: 138mm<br>Lens Height: 42mm<br>Total Length: 142mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7129292243113</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4045</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/7114954899625</id>
+    <published>2021-07-30T14:48:42-07:00</published>
+    <updated>2021-07-30T14:48:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4037-kleo-flat-top-shield-wholesale-sunglasses"/>
+    <title>KLEO Flat Top Shield One Piece Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4037-lion-head-plastic-flat-top-shield-sunglasses-01.jpg?v=1627679722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 135mm<br>Bridge: 16mm<br>Temple: 148mm<br>Lens Height: 45mm<br>Total Length: 144mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/7114954899625</id>
+      <title>Dozen</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>LH-P4037</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53961818156</id>
+    <published>2021-06-16T10:33:56-07:00</published>
+    <updated>2021-06-16T10:33:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-5350-kleo-fashion-retro-sunglasses-with-accent-top-bar-for-her"/>
+    <title>KLEO Flat Top Thick Temple Wholesale Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-5350-lion-head-flat-top-sunglasses-01.jpg?v=1581359410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Fashion Retro Sunglasses with Accent Top Bar for Her</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53961818156</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-5350</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53961883692</id>
+    <published>2021-03-17T13:15:42-07:00</published>
+    <updated>2021-03-17T13:15:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-5345-kleo-fashion-retro-plastic-sunglasses-with-fancy-temple"/>
+    <title>KLEO Fashion Retro Plastic Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-5345-lion-head-square-chain-temple-sunglasses-01.jpg?v=1614194106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Fashion Retro Plastic Sunglasses</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53961883692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-5345</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53992783916</id>
+    <published>2021-02-22T16:23:54-08:00</published>
+    <updated>2021-02-22T16:23:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-5353-kleo-fashion-plastic-sunglasses"/>
+    <title>KLEO Butterfly Wholesale Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-5353-plastic-butterfly-fashion-sunglasses-04.jpg?v=1614039822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Fashion Plastic Sunglasses.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53992783916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-5353</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/6410855579817</id>
+    <published>2021-02-18T13:59:09-08:00</published>
+    <updated>2021-02-18T13:59:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4030-kleo-wholesale-fashion-sunglasses"/>
+    <title>KLEO Arch Temple Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4030-lion-head-butterfly-sunglasses-01.jpg?v=1611257239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<span data-mce-fragment="1">Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</span><br>
+<ul></ul>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Hinge: Metal<br>Leg: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 64mm<br>Bridge: 16mm<br>Temple: 140mm<br>Lens Height: 54mm<br>Total Length: 146mm<br>Total Height: 62mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/6410855579817</id>
+      <title>Dozen</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>LH-P4030</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53983674412</id>
+    <published>2020-10-23T09:44:24-07:00</published>
+    <updated>2020-10-23T09:44:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7803-oc-kleo-metal-aviators-sunglasses-with-oceanic-color-lens-for-her"/>
+    <title>KLEO Oceanic Color Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7803-OC-lion-head-metal-aviator-oceanic-lens-sunglasses-01.jpg?v=1603471362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Metal Aviators Sunglasses with Oceanic Color Lens for Her.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oceanic Color</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53983674412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>LH-M7803-OC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53961785388</id>
+    <published>2020-10-12T13:12:38-07:00</published>
+    <updated>2020-10-12T13:12:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-5351-kleo-fashion-retro-sunglasses-with-thick-frame-for-her"/>
+    <title>KLEO Squared Fashion Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-5351-kleo-sunglass-01.jpg?v=1526675786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Fashion Sunglasses with Thick Frame</p>
+<p>Comes in Assorted Colors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Square</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53961785388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>LH-5351</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462273691</id>
+    <published>2020-09-09T09:37:24-07:00</published>
+    <updated>2020-09-09T09:37:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7817-kleo-oval-wholesale-fashion-sunglasses"/>
+    <title>KLEO Round Oval Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7817-lion-head-oval-cut-out-sunglasses-01.jpg?v=1599157751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 54mm<br>Bridge: 18mm<br>Temple: 138mm<br>Lens Height: 43mm<br>Total Length: 142mm<br>Total Height: 45mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oval</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462273691</id>
+      <title>Dozen</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>LH-M7817</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462339227</id>
+    <published>2020-09-09T09:37:18-07:00</published>
+    <updated>2020-09-09T09:37:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4034-kleo-butterfly-wholesale-fashion-sunglasses"/>
+    <title>KLEO Round Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4034-lion-head-plastic-oval-sunglasses-01.jpg?v=1599157532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 57mm<br>Bridge: 14mm<br>Temple: 145mm<br>Lens Height: 51mm<br>Total Length: 150mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462339227</id>
+      <title>Dozen</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>LH-P4034</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5555518800027</id>
+    <published>2020-09-01T12:03:18-07:00</published>
+    <updated>2020-09-01T12:03:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-7819-kleo-cat-eye-wholesale-fashion-sunglasses"/>
+    <title>KLEO Round Cat Eye Chain Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-7819-lion-head-chain-temple-sunglasses-01.jpg?v=1598981482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 57mm<br>Bridge: 16mm<br>Temple: 142mm<br>Lens Height: 49mm<br>Total Length: 144mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5555518800027</id>
+      <title>Dozen</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>LH-7819</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5555518734491</id>
+    <published>2020-09-01T12:03:18-07:00</published>
+    <updated>2020-09-01T12:03:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-7818-kleo-cat-eye-wholesale-fashion-sunglasses"/>
+    <title>KLEO Round Cat Eye Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-7818-lion-head-metal-temple-cut-out-sunglasses-01.jpg?v=1598981696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 20mm<br>Temple: 140mm<br>Lens Height: 41mm<br>Total Length: 135mm<br>Total Height: 43mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5555518734491</id>
+      <title>Dozen</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku>LH-7818</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53985312812</id>
+    <published>2020-03-19T14:24:00-07:00</published>
+    <updated>2020-03-19T14:24:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4002-kleo-fashion-plastic-sunglasses-with-fancy-temple-for-her"/>
+    <title>KLEO Butterfly Fashion Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4002-plastic-kleo-sunglass-01.jpg?v=1584656688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>KLEO Fashion Plastic Sunglasses with Fancy Temple for Her.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53985312812</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>LH-P4002</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438778507</id>
+    <published>2020-02-07T11:42:51-08:00</published>
+    <updated>2020-02-07T11:42:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7814-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Chain Aviators Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7814-lionhead-metal-chain-temple-sunglasses-01.jpg?v=1581096841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 58mm<br>Bridge: 18mm<br>Temple: 133mm<br>Lens Height: 56mm<br>Total Length: 148mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438778507</id>
+      <title>Dozen</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>LH-M7814</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438745739</id>
+    <published>2020-02-07T11:42:51-08:00</published>
+    <updated>2020-02-07T11:42:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7813-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Round Aviators Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7813-lionhead-metal-round-sunglasses-01.jpg?v=1581098170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 55mm<br>Bridge: 16mm<br>Temple: 134mm<br>Lens Height: 51mm<br>Total Length: 148mm<br>Total Height: 57mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438745739</id>
+      <title>Dozen</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>LH-M7813</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438876811</id>
+    <published>2020-02-07T11:42:50-08:00</published>
+    <updated>2020-02-07T11:42:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7816-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Rimless Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7816-lion-head-metal-butterfly-stones-sunglasses-01.jpg?v=1581097394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 60mm<br>Bridge: 20mm<br>Temple: 130mm<br>Lens Height: 58mm<br>Total Length: 138mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Rimless</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438876811</id>
+      <title>Dozen</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku>LH-M7816</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438844043</id>
+    <published>2020-02-07T11:42:50-08:00</published>
+    <updated>2020-02-07T11:42:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-m7815-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Shield Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-M7815-lionhead-metal-flat-top-sunglasses-01.jpg?v=1581098265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 141mm<br>Bridge: 20mm<br>Temple: 140mm<br>Lens Height: 60mm<br>Total Length: 144mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438844043</id>
+      <title>Dozen</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>LH-M7815</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438975115</id>
+    <published>2020-02-07T11:42:49-08:00</published>
+    <updated>2020-02-07T11:42:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4033-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Butterfly Wholesale Sunglasses</title>
+    <s:type>New</s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4033-lion-head-plastic-butterfly-sunglasses-01.jpg?v=1581096789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 55mm<br>Bridge: 16mm<br>Temple: 138mm<br>Lens Height: 54mm<br>Total Length: 140mm<br>Total Height: 60mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438975115</id>
+      <title>Dozen</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>LH-P4033</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/4519438942347</id>
+    <published>2020-02-07T11:42:49-08:00</published>
+    <updated>2020-02-07T11:42:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/lh-p4032-kleo-fashion-wholesale-sunglasses"/>
+    <title>KLEO Butterfly Wholesale Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>KLEO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/LH-P4032-lionhead-plastic--round-square-sunglasses-01.jpg?v=1581096717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KLEO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%"></table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic<br></p>
+</td>
+<td>Measurements<br>Lens Width: 55mm<br>Bridge: 18mm<br>Temple: 143mm<br>Lens Height: 53mm<br>Total Length: 147mm<br>Total Height: 61mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/4519438942347</id>
+      <title>Dozen</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>LH-P4032</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

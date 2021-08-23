@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/sale.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-07-01T11:35:12-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/53895626796</id>
+    <published>2021-07-01T11:35:12-07:00</published>
+    <updated>2021-07-01T11:35:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10176-metal-cat-eye-bridgeless-fashion-sunglasses"/>
+    <title>Bridgeless Cat Eye Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10176-metal-fashion-browless-sunglasses-07.jpg?v=1582146164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            25.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Metal cat eye sunglasses with a high brow bar and bridgeless for an on-trend style. Flat color mirror lenses complete this fashionable look and provide 100% UV400, UVA and UVB protection. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 53mm<br>Bridge: 18mm<br>Temple: 130mm<br>Lens Height: 46mm<br>Total Length: 148mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53895626796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.20</s:price>
+      <s:sku>M10176</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53871869996</id>
+    <published>2020-02-03T10:15:35-08:00</published>
+    <updated>2020-02-03T10:15:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p6202-ft-pink-fashion-sunglasses-with-flat-rose-gold-lens"/>
+    <title>Retro Rose Gold Flat Lens Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P6202-FT-PINK-plastic-flat-pink-sunglasses-01.jpg?v=1518043525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            29.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion sunglasses featuring flat rose gold lens and metal accent at the temples. Provides complete UV protection. </p>
+<ul>
+<li>Flat pink color mirror lens</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p><span>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</span></p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Plastic</p>
+<p> </p>
+</td>
+<td>
+<span>Measurements</span><br><span>Lens Width: 55mm</span><br><span>Bridge: 18mm</span><br><span>Temple: 150mm</span><br><span>Lens Height: 48mm</span><br><span>Total Length: 145mm</span><br><span>Total Height: 55mm</span>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53871869996</id>
+      <title>Retro / Color Mirror / Dozen</title>
+      <s:price currency="USD">29.60</s:price>
+      <s:sku>P6202-FT-PINK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53891301420</id>
+    <published>2019-09-13T15:13:06-07:00</published>
+    <updated>2019-09-13T15:13:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10197-cm-metal-fashion-geometric-aviators-sunglasses"/>
+    <title>Octagon Color Mirror Fashion Wholesale Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10197-CM-metal-fashion-color-mirror-sunglasses-02.jpg?v=1521057929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            40.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Metal geometric aviator sunglasses featuring an octagonal frame and triangular color block brow accent. Color mirror lenses provide complete UV protection. Shiny metal finish with plastic legs. 
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Geometric</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53891301420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.60</s:price>
+      <s:sku>M10197-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/538090864684</id>
+    <published>2018-03-30T10:20:58-07:00</published>
+    <updated>2018-03-30T10:20:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10447-oc"/>
+    <title>Rimless Solid One Piece Keyhole Nose Oceanic Color Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10447-OC-aviator-oceanic-one-piece-fashion-sunglasses-01_92a38257-e361-44d4-91d1-4d97e702d4c7.jpg?v=1564697289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal one piece sunglasses featuring oceanic color gradient lens. Shiny metal finish with plastic tips. Provides complete UV protection. </p>
+<ul>
+<li>Oceanic color gradient lens</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 142mm<br>Bridge: 14mm<br>Temple: 143mm<br>Lens Height: 57mm<br>Total Length: 150mm<br>Total Height: 57mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oceanic Color</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/538090864684</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.75</s:price>
+      <s:sku>M10447-OC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53891366956</id>
+    <published>2018-03-05T14:30:59-08:00</published>
+    <updated>2018-03-05T14:30:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10212-ft-cat-eye-double-crossbar-sunglasses-with-flat-lens"/>
+    <title>Double Bar Cat Eye Flat Lens Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10212-FT-metal-flat-fashion-aviator-sunglasses-07_56a6acb0-a097-400d-bf46-aace6b5706a1.jpg?v=1566256649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cat eye sunglasses featuring a metal double crossbar. Flat lenses in either smoke or color mirror style provide 100% UV400, UVA, and UVB protection. </p>
+<ul>
+<li>Flat lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 56mm<br>Bridge: 18mm<br>Temple: 155mm<br>Lens Height: 50mm<br>Total Length: 148mm<br>Total Height: 52mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Flat</s:tag>
+    <s:tag>Holiday Sale</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53891366956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.90</s:price>
+      <s:sku>M10212-FT</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/270591819820</id>
+    <published>2018-01-30T11:41:00-08:00</published>
+    <updated>2018-01-30T11:41:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10412-cm"/>
+    <title>Retro Style Color Mirror Aviators Wholesale Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10412-CM-metal-color-mirror-aviator-fashion-sunglasses-01_e5d18fa1-6856-4fca-8b1d-20c133e59dff.jpg?v=1566323093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            40.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Aviator sunglasses featuring a curved metal top brow bar and keyhole nose bridge to complete this retro look. Shiny metal finish. Round lenses with frosted edges. Color mirror or smoke lenses provide complete UV protection. </span></p>
+<ul>
+<li>Color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<ul></ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 53mm<br>Bridge: 15mm<br>Temple: 140mm<br>Lens Height: 51mm<br>Total Length: 142mm<br>Total Height: 56mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/270591819820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.50</s:price>
+      <s:sku>M10412-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/194377678892</id>
+    <published>2018-01-18T11:38:21-08:00</published>
+    <updated>2018-01-18T11:38:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10513-oc"/>
+    <title>Rounded Oceanic Color Aviators Wholesale Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10513-OC-metal-oceanic-sunglasses-01_92a3e365-bce6-44c1-82e3-58b9067565a7.jpg?v=1564762587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Rounded aviator sunglasses featuring an extensive curved top brow bar and oceanic color gradient lenses. Thin legs in shiny metal with plastic tips. Provides complete UV protection. </span>
+<ul>
+<li>Oceanic color gradient lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 57mm<br>Bridge: 16mm<br>Temple: 139mm<br>Lens Height: 50mm<br>Total Length: 147mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oceanic Color</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/194377678892</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>M10513-OC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/57976651820</id>
+    <published>2017-12-27T11:59:01-08:00</published>
+    <updated>2017-12-27T11:59:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10474-oc-wholesale-fashion-butterfly-sunglasses-with-oceanic-color-lens"/>
+    <title>Rimless Butterfly Double Stud Oceanic Color Lens Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10474-OC-metal-oceanic-rimless-sunglasses-01_7c3b4a05-81e2-496d-9bfc-cc3e0dcf129c.jpg?v=1566255094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            37.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Butterfly sunglasses featuring oceanic color gradient lenses in a rimless style. Provides complete UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>Oceanic color gradient lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 65mm<br>Bridge: 15mm<br>Temple: 132mm<br>Lens Height: 59mm<br>Total Length: 140mm<br>Total Height: 59mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Butterfly</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oceanic Color</s:tag>
+    <s:tag>Rimless</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/57976651820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.10</s:price>
+      <s:sku>M10474-OC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/57974554668</id>
+    <published>2017-12-27T11:58:49-08:00</published>
+    <updated>2017-12-27T11:58:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10411-oc-retro-fashion-sunglasses-with-oceanic-color-lens"/>
+    <title>Solid One Piece Oceanic Color Retro Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10411-OC-metal-oceanic-one-piece-sunglasses-01.jpg?v=1581359730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            32.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Retro fashion sunglasses featuring oceanic color gradient lens that provide UV protection. Shiny metal finish with plastic tips. 
+<ul>
+<li>Oceanic color gradient lens</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 138mm<br>Bridge: 19mm<br>Temple: 141mm<br>Lens Height: 54mm<br>Total Length: 143mm<br>Total Height: 56mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Oceanic Color</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/57974554668</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.90</s:price>
+      <s:sku>M10411-OC</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53889859628</id>
+    <published>2017-12-26T14:20:15-08:00</published>
+    <updated>2017-12-26T14:20:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10204-metal-mesh-cat-eye-sunglasses"/>
+    <title>Cat Eye Metal Mesh Fashion Wholesale Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10204-cat-eye-fashion-sunglasses-07_a4423145-bc29-4ba2-8d05-a0f617d1700b.jpg?v=1568056046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Feminine cat eye sunglasses with metal mesh deco frames. Sleek metal legs finish off this polished look. Standard smokey or color mirror lenses provide 100% UV400, UVA, and UVB protection. 
+<ul>
+<li>Mesh frame design</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 15mm<br>Temple: 136mm<br>Lens Height: 45mm<br>Total Length: 152mm<br>Total Height: 62mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53889859628</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>M10204</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53885730860</id>
+    <published>2017-12-26T14:19:56-08:00</published>
+    <updated>2017-12-26T14:19:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10259-metal-fashion-sunglasses-with-octagonal-lens"/>
+    <title>Octagon Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10259-metal-fashion-octagonal-sunglasses-01.jpg?v=1515447269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            18.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metal fashion sunglasses featuring octagonal lens that provide UV protection. Shiny metal finish with plastic tips. </p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 63mm<br>Bridge: 17mm<br>Temple: 127mm<br>Lens Height: 55mm<br>Total Length: 143mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Geometric</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53885730860</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.20</s:price>
+      <s:sku>M10259</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53882290220</id>
+    <published>2017-12-26T14:19:38-08:00</published>
+    <updated>2017-12-26T14:19:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10250-wholesale-fashion-one-piece-sunglasses"/>
+    <title>Solid One Piece Flat Top Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10250-metal-sunglasses-07.jpg?v=1569435595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            43.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fashion one piece sunglasses featuring an extensive metal brow bar. Color mirror lens provide complete UV protection. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Rimless<br>Leg: Metal</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 141mm<br>Bridge: 14mm<br>Temple: 136mm<br>Lens Height: 51mm<br>Total Length: 153mm<br>Total Height: 51mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>One Piece</s:tag>
+    <s:tag>Rimless</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53882290220</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.40</s:price>
+      <s:sku>M10250</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53880750124</id>
+    <published>2017-12-26T14:19:30-08:00</published>
+    <updated>2017-12-26T14:19:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10286-retro-aviators-sunglasses"/>
+    <title>Retro Aviators Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10286-metal-fashion-aviator-round-sunglasses-02.jpg?v=1514588137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Retro aviators featuring a thin metal top brow bar and keyhole nose bridge detail. Shiny metal finish with plastic tips. Color mirror lenses provide complete UV protection. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 12mm<br>Temple: 136mm<br>Lens Height: 45mm<br>Total Length: 163mm<br>Total Height: 53mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53880750124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>M10286</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53880651820</id>
+    <published>2017-12-26T14:19:30-08:00</published>
+    <updated>2017-12-26T14:19:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/p30180-cat-eye-sunglasses-with-large-frame"/>
+    <title>Cat Eye Fashion Wholesale Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/P30180-plastic-cat-eye-fashion-sunglasses-07.jpg?v=1582153117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            32.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Plastic cat eye sunglasses with metal frames that sit on top. The combination of both metal and plastic complete this unique oversized look. Standard lenses provide 100% UV400, UVA, and UVB protection. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Plastic<br>Leg: Metal<br>Tip: Plastic</p>
+</td>
+<td>Measurements<br>Lens Width: 52mm<br>Bridge: 12mm<br>Temple: 136mm<br>Lens Height: 48mm<br>Total Length: 161mm<br>Total Height: 63mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Cat Eye</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53880651820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.80</s:price>
+      <s:sku>P30180</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53879341100</id>
+    <published>2017-12-26T14:19:22-08:00</published>
+    <updated>2017-12-26T14:19:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10285-retro-aviators-sunglasses"/>
+    <title>Retro Aviators Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10285-metal-fashion-aviator-sunglasses-06.jpg?v=1567802554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Retro aviators featuring a metal frame on plastic top frames. Thin metal top brow bar with plastic nose bridge. Smoke lenses provide complete UV protection. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 62mm<br>Bridge: 16mm<br>Temple: 135mm<br>Lens Height: 45mm<br>Total Length: 140mm<br>Total Height: 50mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53879341100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.60</s:price>
+      <s:sku>M10285</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53878718508</id>
+    <published>2017-12-26T14:19:18-08:00</published>
+    <updated>2017-12-26T14:19:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/m10287-round-geometric-sunglasses"/>
+    <title>Round Octagon Wholesale Bulk Sunglasses</title>
+    <s:type>Sale</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/M10287-metal-fashion-sunglasses-06.jpg?v=1515447656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>Sale<br>
+        <strong>Price: </strong>
+            30.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Geometric frames with round lenses provide UV protection. Shiny metal finish with plastic tips. 
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p>Material<br>Face: Metal<br>Leg: Metal<br>Tip: Plastic</p>
+<p> </p>
+</td>
+<td>Measurements<br>Lens Width: 50mm<br>Bridge: 16mm<br>Temple: 138mm<br>Lens Height: 49mm<br>Total Length: 143mm<br>Total Height: 58mm</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Fashion</s:tag>
+    <s:tag>Geometric</s:tag>
+    <s:tag>Metal</s:tag>
+    <s:tag>Round</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53878718508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.40</s:price>
+      <s:sku>M10287</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

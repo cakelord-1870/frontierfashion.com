@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/eko-bamboo-wood-wholesale-fashion-sunglasses.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-06-14T13:23:30-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/53909127212</id>
+    <published>2021-06-14T13:23:30-07:00</published>
+    <updated>2021-06-14T13:23:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2006-cm-eko-polarized-classic-sunglasses-with-wood-frame-and-color-mirror-lens"/>
+    <title>EKO Polarized Classic Sunglasses with Wood Frame and Color Mirror Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2006-CM-polarized-wood-color-mirror-sunglasses-01.jpg?v=1627338241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            63.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO Polarized Classic Sunglasses with Wood Frame and Color Mirror Lens.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53909127212</id>
+      <title>Default Title</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku>POL-WD-2006-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53908766764</id>
+    <published>2020-01-29T15:07:16-08:00</published>
+    <updated>2020-01-29T15:07:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2011-eko-wood-classic-sunglasses"/>
+    <title>EKO Wood Classic Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2011-eko-wood-sunglass-02.jpg?v=1580339999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO Wood Classic Sunglasses</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53908766764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>WD-2011</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907947564</id>
+    <published>2020-01-29T15:07:16-08:00</published>
+    <updated>2020-01-29T15:07:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2009-eko-aviators-sunglasses-with-polarized-lens"/>
+    <title>EKO Polarized Aviators Wood Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2009-polarized-wood-sunglasses-01.jpg?v=1627338963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EKO aviators sunglasses with polarized lens that provide UV protection.
+<ul>
+<li>Polarized Lens</li>
+<li>Bamboo Wood Temple</li>
+<li>UV400, UVA &amp; UVB Protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907947564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">71.00</s:price>
+      <s:sku>POL-WD-2009</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907587116</id>
+    <published>2020-01-29T15:07:16-08:00</published>
+    <updated>2020-01-29T15:07:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2009-clr-eko-aviators-wood-sunglasses-with-clear-lens"/>
+    <title>EKO Aviators Wood Sunglasses with Clear Lens</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2009-CLR-eko-wood-clear-eyewear-02.jpg?v=1580339463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO Aviators Wood Sunglasses with Clear Lens.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$40-$50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907587116</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>WD-2009-CLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907554348</id>
+    <published>2020-01-29T15:07:16-08:00</published>
+    <updated>2020-01-29T15:07:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2010-cm-eko-aviators-wood-sunglasses"/>
+    <title>EKO Aviators Wood Sunglasses with Color Mirror Lens</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2010-CM-eko-aviator-wood-color-mirror-sunglass-06.jpg?v=1580339725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO Aviators Wood Sunglasses with Color Mirror Lens.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907554348</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>WD-2010-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907292204</id>
+    <published>2020-01-29T14:49:17-08:00</published>
+    <updated>2020-01-29T14:49:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2017-eko-combination-wood-sunglasses"/>
+    <title>EKO Combination Wood Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2017-eko-combination-wood-sunglass-05.jpg?v=1580336428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO Combination Wood Sunglasses</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Combination</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907292204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>WD-2017</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53909225516</id>
+    <published>2019-03-04T09:36:00-08:00</published>
+    <updated>2019-03-04T09:36:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2003-eko-polarized-classic-sunglasses-with-wood-frame"/>
+    <title>EKO Polarized Wood Classic Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2003-polatized-wood-sunglasses-01.jpg?v=1627065128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            68.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><iframe src="https://www.youtube.com/embed/VC7e4MVHE_8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>EKO Polarized Classic Sunglasses with Wood Frame</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+<li>Polarized lens, reduce glare</li>
+<li>Bamboo wood temples</li>
+</ul>
+<p>These wholesale bulk sunglasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53909225516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">68.00</s:price>
+      <s:sku>POL-WD-2003</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53909061676</id>
+    <published>2019-01-24T10:59:57-08:00</published>
+    <updated>2019-01-24T10:59:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/rd-wd-2025-eko-classic-reader-eyewear"/>
+    <title>EKO Wood Temple Reading Glasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/RD-WD-2025-eko-wood-reader-eyewear-03_b1db8280-a531-4bfb-95cb-f717ce17c6b1.jpg?v=1565727252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO branded glasses featuring metal accents at the temples. Clear lenses. Wooden legs with plastic frames. </p>
+<ul>
+<li>Lens power: +1.25 to +3.25</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53909061676</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>RD-WD-2025</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53906833452</id>
+    <published>2019-01-24T10:57:27-08:00</published>
+    <updated>2019-01-24T10:57:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/rd-wd-2024"/>
+    <title>EKO Wood Combination Reading Lens Wholesale Bulk Glasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/RD-WD-2024-eko-combination-wood-reader-01_40683c5e-08bc-4fdb-af74-c9d2145b6360.jpg?v=1565732303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO branded glasses featuring wooden legs and plastic frames. Metal accent at the temples. </p>
+<ul>
+<li>Lens power: +1.25 to +3.25</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Reading</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53906833452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>RD-WD-2024</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907456044</id>
+    <published>2018-08-30T10:59:48-07:00</published>
+    <updated>2018-08-30T10:59:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2015-clr-eko-combination-clear-wood-eyewear"/>
+    <title>EKO Combination Clear Wood Glasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2015-CLR-eko-clear-combination-wood-eyewear-06.jpg?v=1569625583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EKO combination style glasses featuring wood temples and plastic top frames. Metal rims in shiny finish. Clear lenses with UV protection. 
+<ul>
+<li>Bamboo wood temples</li>
+<li>Clear lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+Please note that these wholesale glasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Combination</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907456044</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.00</s:price>
+      <s:sku>WD-2015-CLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907619884</id>
+    <published>2018-08-30T10:59:22-07:00</published>
+    <updated>2018-08-30T10:59:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2009"/>
+    <title>EKO Aviators Wood Sunglasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2009-eko-aviator-wood-sunglass-06.jpg?v=1569625447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO wood aviators featuring metal deco at the bamboo temples. Plastic frames in shiny finish. Smoke lenses provide complete UV protection. </p>
+<ul>
+<li>Bamboo temples</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Standard</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907619884</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>WD-2009</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907226668</id>
+    <published>2018-08-29T14:55:00-07:00</published>
+    <updated>2018-08-29T14:55:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/wd-2020-clr-eko-fashion-retro-sunglasses-with-clear-lens"/>
+    <title>EKO Retro Clear Wood Glasses Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WD-2020-CLR-eko-fashion-clear-eyewear-05.jpg?v=1569625695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">EKO Fashion retro glasses with clear lenses that provide UV protection.
+<ul>
+<li>Bamboo wood temples</li>
+<li>Clear lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+Please note that these wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907226668</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>WD-2020-CLR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907914796</id>
+    <published>2018-03-05T14:49:50-08:00</published>
+    <updated>2018-03-05T14:49:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2010-cm"/>
+    <title>EKO Wood Aviators Polarized Color Mirror Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2010-CM-polarized-wood-color-mirror-sunglasses-01.jpg?v=1627064451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO wood aviators featuring polarized color mirror lenses that provide complete UV protection. </p>
+<ul>
+<li>Wooden temples</li>
+<li>Polarized color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Aviators</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907914796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>POL-WD-2010-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53907980332</id>
+    <published>2018-03-05T14:48:15-08:00</published>
+    <updated>2018-03-05T14:48:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2008-cm"/>
+    <title>EKO Wood Classic Polarized Color Mirror Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2008-CM-eko-polarized-aviator-wood-sunglass-05.jpg?v=1525814556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<p>EKO sunglasses featuring wood patterned temples and metal logo accent on both sides. Polarized color mirror lenses provide complete UV protection. Plastic frames in shiny finish. </p>
+<ul>
+<li>Wood temples</li>
+<li>Polarized color mirror lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Color Mirror</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53907980332</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku>POL-WD-2008-CM</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53908013100</id>
+    <published>2018-03-05T14:47:21-08:00</published>
+    <updated>2018-03-05T14:47:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/pol-wd-2007"/>
+    <title>EKO Wood Classic Polarized Lens Wholesale Bulk Sunglasses</title>
+    <s:type></s:type>
+    <s:vendor>EKO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/POL-WD-2007-polarized-wood-sunglasses-01.jpg?v=1627338588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>EKO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EKO sunglasses featuring plastic frames with wood temples. Shiny metal accents on both sides. Polarized smoke lenses provide complete UV protection. </p>
+<ul>
+<li>Wood temples</li>
+<li>Polarized smoke lenses</li>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Polarized</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53908013100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>POL-WD-2007</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

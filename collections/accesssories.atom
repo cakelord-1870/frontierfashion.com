@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://frontierfashion.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://frontierfashion.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://frontierfashion.com/collections/accesssories.atom"/>
+  <title>Frontier Fashion, Inc.</title>
+  <updated>2021-03-18T14:07:03-07:00</updated>
+  <author>
+    <name>Frontier Fashion, Inc.</name>
+  </author>
+  <entry>
+    <id>https://frontierfashion.com/products/53971386412</id>
+    <published>2021-03-18T14:07:03-07:00</published>
+    <updated>2021-03-18T14:07:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw895-black-black-hard-curved-cover-eyewear-case"/>
+    <title>Black Hard Case Curved Cover Bulk Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW895-BLACK-01.jpg?v=1616100028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Hard Case Curved Cover Bulk Wholesale.</p>
+<p>Please note that wholesale sunglasses are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53971386412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>CW895-BLACK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53903622188</id>
+    <published>2020-10-19T13:14:05-07:00</published>
+    <updated>2020-10-19T13:14:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cv852-wd-collapsible-wood-pattern-hard-case"/>
+    <title>Wood Pattern Collapsible Rectangle Case Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CV852-WD-collaspible-hard-case-01.jpg?v=1514930207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Collapsible Wood Pattern Hard Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>$40-$50</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53903622188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku>CV852-WD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5651503775899</id>
+    <published>2020-09-25T11:07:31-07:00</published>
+    <updated>2020-09-25T11:07:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/3-piece-display-case"/>
+    <title>3 Piece Display Case</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/WeChatImage_20200925110510.jpg?v=1601057251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion, Inc.<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            83.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hold 3 sunglasses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5651503775899</id>
+      <title>$20</title>
+      <s:price currency="USD">83.00</s:price>
+      <s:sku>DT-06</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462929051</id>
+    <published>2020-09-09T09:39:27-07:00</published>
+    <updated>2020-09-09T09:39:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-070-tiedye-tiedye-chain-wholesale-accessories"/>
+    <title>Tie Dye Thick Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-070-TIEDYE-chain-thick-tiedye.jpg?v=1599154277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462929051</id>
+      <title>Dozen</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CH-070-TIEDYE</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462863515</id>
+    <published>2020-09-09T09:37:52-07:00</published>
+    <updated>2020-09-09T09:37:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-070-neon-neon-chain-wholesale-accessories"/>
+    <title>Neon Thick Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-070-NEON-chain-thick-neon.jpg?v=1599154233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462863515</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CH-070-NEON</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562463060123</id>
+    <published>2020-09-09T09:37:44-07:00</published>
+    <updated>2020-09-09T09:37:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch072-ltbr-light-brown-chain-wholesale-accessories"/>
+    <title>Light Brown Thin Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-072-LTBR-chain-medium-light-brown.jpg?v=1599154253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562463060123</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CH-072-LTBR</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462994587</id>
+    <published>2020-09-09T09:37:11-07:00</published>
+    <updated>2020-09-09T09:37:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-071-gold-gold-chain-wholesale-accessories"/>
+    <title>Gold Thin Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-071-GOLD-chain-thin-rhinestone-gold.jpg?v=1599154152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 26.5" (67cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462994587</id>
+      <title>Dozen</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CH-071-GOLD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462830747</id>
+    <published>2020-09-09T09:37:03-07:00</published>
+    <updated>2020-09-09T09:37:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-070-gold-gold-chain-wholesale-accessories"/>
+    <title>Gold Thick Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-070-GOLD-chain-thick-gold.jpg?v=1599154048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462830747</id>
+      <title>Dozen</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CH-070-GOLD</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562463027355</id>
+    <published>2020-09-09T09:35:42-07:00</published>
+    <updated>2020-09-09T09:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-072-demi-demi-chain-wholesale-accessories"/>
+    <title>Demi Thin Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-072-DEMI-chain-medium-demi.jpg?v=1599154008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562463027355</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CH-072-DEMI</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/5562462765211</id>
+    <published>2020-09-09T09:35:42-07:00</published>
+    <updated>2020-09-09T09:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/ch-070-blk-black-chain-wholesale-accessories"/>
+    <title>Black Thick Chain Wholesale Accessories</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CH-070-BLK-chain-thick-black.jpg?v=1599153613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Length: 24" (61cm)</li>
+</ul>
+<p>Please note that these wholesale bulk glasses chains come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://frontierfashion.com/products/5562462765211</id>
+      <title>Dozen</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CH-070-BLK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/674472656940</id>
+    <published>2019-08-05T10:05:01-07:00</published>
+    <updated>2019-08-05T10:05:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw907"/>
+    <title>Metallic Print Triangle Folding Sunglasses Case Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW907-triangle-folding-case-01.jpg?v=1526322665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wholesale Bulk Triangle Folding Sunglasses Hard Case</p>
+<p>Comes in Assorted Colors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Collapsible Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/674472656940</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>CW907</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/674472427564</id>
+    <published>2019-08-05T10:01:54-07:00</published>
+    <updated>2019-08-05T10:01:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw903"/>
+    <title>Collapsible Shimmer Rectangle Wholesale Bulk Hard Case</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW903-iridescent-folding-case-02.jpg?v=1526321753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iridescent collapsible sunglasses case in a rectangular shape and black fabric interior. </p>
+<ul>
+<li>Collapsible hard case</li>
+</ul>
+<p>Comes in color shown. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Collapsible Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/674472427564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku>CW903</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/3960334352428</id>
+    <published>2019-07-31T14:46:38-07:00</published>
+    <updated>2019-07-31T14:46:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw913-black-4-piece-box-case-fashion-wholesale-sunglasses"/>
+    <title>Folding 4 Piece Sunglasses Box Case</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW913-BLACK-case-02_af9d19c3-495d-4c92-a470-cabb14b3cadf.jpg?v=1565800883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            163.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These wholesale bulk sunglasses come packed in sets of 12, with an assortment of the colors shown.</p>
+<ul>
+<li>UV400, UVA &amp; UVB protection</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $50</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/3960334352428</id>
+      <title>Dozen</title>
+      <s:price currency="USD">163.00</s:price>
+      <s:sku>CW913-BLACK</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1811590807596</id>
+    <published>2019-06-06T14:36:52-07:00</published>
+    <updated>2019-06-06T14:36:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cv859-kn-khan-collapsible-sunglasses-case"/>
+    <title>KHAN Collapsible Rectangle Wholesale Sunglasses Case</title>
+    <s:type>New</s:type>
+    <s:vendor>KHAN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CV859-KN-01.jpg?v=1557507892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KHAN<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1811590807596</id>
+      <title>Dozen</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>CV859-KN</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53906407468</id>
+    <published>2019-03-06T11:25:19-08:00</published>
+    <updated>2019-03-06T11:25:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cv851-collapsible-eyewear-hard-case"/>
+    <title>Textured Collapsible Black Sunglasses Case</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CV851-collaspible-eyewear-hard-case-01.jpg?v=1514930133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Collapsible Eyewear Hard Case</p>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53906407468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>CV851</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1272332943404</id>
+    <published>2018-09-28T15:55:04-07:00</published>
+    <updated>2018-09-28T15:55:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw910-rainbow-triangle-sunglasses-cases-wholesale"/>
+    <title>Rainbow Triangle Sunglasses Case Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW910-01.jpg?v=1538175969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Triangle sunglasses case featuring a rainbow color gradient in glitter. </p>
+<ul>
+<li>Collapsible triangle case</li>
+</ul>
+<p>Please note that these wholesale sunglasses cases are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Collapsible Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1272332943404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CW910</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/1272332910636</id>
+    <published>2018-09-28T15:55:04-07:00</published>
+    <updated>2018-09-28T15:55:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw909-multi-color-triangle-sunglasses-case-wholesale"/>
+    <title>Multi Color Glitter Triangle Sunglasses Case Wholesale</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW909-01.jpg?v=1538175823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glitter triangle sunglasses case featuring tri colors in transitions of blue, green, and orange. </p>
+<ul>
+<li>Collapsible triangle case</li>
+</ul>
+<ul></ul>
+<p>Please note that these wholesale sunglasses cases are sold in bulk by the dozen, packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$30-$40</s:tag>
+    <s:tag>Collapsible Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/1272332910636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku>CW909</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/674472624172</id>
+    <published>2018-03-15T10:13:08-07:00</published>
+    <updated>2018-03-15T10:13:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw906"/>
+    <title>Thin Glossy Wholesale Bulk Hard Case</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW906-metallic-colored-case-02.jpg?v=1526322538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metallic sunglasses case in a classic shape and <span>soft peach fabric interior.</span></p>
+<ul>
+<li>Hard snap case</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/674472624172</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CW906</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/674472558636</id>
+    <published>2018-03-15T10:13:08-07:00</published>
+    <updated>2018-03-15T10:13:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw905"/>
+    <title>Thin Shimmer Wholesale Bulk Hard Case</title>
+    <s:type>New</s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW905-glitter-dots-case-04.jpg?v=1526322278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong>New<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shimmery colored sunglasses case in a classic shape with <span>soft peach fabric interior.</span></p>
+<ul>
+<li>Hard snap case</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/674472558636</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>CW905</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53982494764</id>
+    <published>2017-12-26T14:30:14-08:00</published>
+    <updated>2017-12-26T14:30:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cv813-mix-mix-houndstooth-hard-cover-sunglasses-case"/>
+    <title>Houndstooth Hard Cover Sunglasses Case</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CV813-MIX-hard-cover-case-04.jpg?v=1514929735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Houndstooth hard cover sunglasses case in different colors. </p>
+<ul>
+<li>Houndstooth pattern </li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53982494764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>CV813-MIX</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53981413420</id>
+    <published>2017-12-26T14:30:08-08:00</published>
+    <updated>2017-12-26T14:30:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cw895-paper-hard-cover-eyewear-case-with-paper-pattern"/>
+    <title>Multi-color Paper Pattern Stitch Hard Cover Sunglasses Case</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CW895-PAPER_2.jpg?v=1514930381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hard cover sunglasses case featuring a paper pattern and soft peach fabric interior. Cover Eyewear Case with Paper Pattern</p>
+<ul>
+<li>Paper pattern</li>
+</ul>
+<p>Please note that these wholesale bulk glasses come packed in sets of 12, with an assortment of the colors shown.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:tag>Hard Case</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53981413420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CW895-PAPER</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53973352492</id>
+    <published>2017-12-26T14:29:15-08:00</published>
+    <updated>2017-12-26T14:29:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cn0003-eyeglass-chain"/>
+    <title>Wholesale Glasses Chains with Metal Ring, Cord Chain &amp; Metal Hooks</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CN0003.jpg?v=1514916362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyeglass Chain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53973352492</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CN0003</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53973319724</id>
+    <published>2017-12-26T14:29:15-08:00</published>
+    <updated>2017-12-26T14:29:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cn0004-eyeglass-chain"/>
+    <title>Wholesale Glasses Chains with Metal Ring, Cord Chain &amp; Metal Hooks</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CN0004.jpg?v=1514916383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyeglass Chain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53973319724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku>CN0004</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53973254188</id>
+    <published>2017-12-26T14:29:15-08:00</published>
+    <updated>2017-12-26T14:29:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cn0005-eyeglass-chain"/>
+    <title>Wholesale Glasses Chains with Metal Ring, Bead, Cord Chain &amp; Metal Hooks</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CN0005.jpg?v=1514916397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Eyeglass Chain</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53973254188</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CN0005</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://frontierfashion.com/products/53973221420</id>
+    <published>2017-12-26T14:29:14-08:00</published>
+    <updated>2017-12-26T14:29:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://frontierfashion.com/products/cn0006-eyeglass-chain"/>
+    <title>Wholesale Glasses Chains with Metal Ring, Bead, Cord Chain &amp; Metal Hooks</title>
+    <s:type></s:type>
+    <s:vendor>Frontier Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2674/4486/products/CN0006.jpg?v=1514916410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frontier Fashion<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyeglass Chain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$20-$30</s:tag>
+    <s:variant>
+      <id>https://frontierfashion.com/products/53973221420</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku>CN0006</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>
